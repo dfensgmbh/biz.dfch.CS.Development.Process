@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace biz.dfch.CS.Development.Process
 {
-    public class Class1
+    public class Calculator
     {
     }
 }
