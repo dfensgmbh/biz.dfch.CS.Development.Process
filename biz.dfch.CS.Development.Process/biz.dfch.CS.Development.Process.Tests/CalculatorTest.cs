@@ -23,5 +23,11 @@ namespace biz.dfch.CS.Development.Process.Tests
         {
             Assert.AreEqual(5, Calculator.Divide(10, 2));
         }
+
+        [TestMethod]
+        public void MultiplyReturnsProductOfTheTwoPassedNumbers()
+        {
+            Assert.AreEqual(50, Calculator.Multiply(10, 5));
+        }
     }
 }
