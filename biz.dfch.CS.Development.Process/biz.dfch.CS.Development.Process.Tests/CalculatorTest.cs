@@ -7,8 +7,9 @@ namespace biz.dfch.CS.Development.Process.Tests
     public class CalculatorTest
     {
         [TestMethod]
-        public void TestMethod1()
+        public void AddReturnsSumOfTwoNumbers()
         {
+            Assert.AreEqual(15, Calculator.add(7, 8));
         }
     }
 }
