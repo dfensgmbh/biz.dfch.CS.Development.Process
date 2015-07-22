@@ -17,5 +17,11 @@ namespace biz.dfch.CS.Development.Process.Tests
         {
             Assert.AreEqual(2, Calculator.subtract(10, 8));
         }
+
+        [TestMethod]
+        public void DivideReturnsQuotientOfTheTwoPassedNumbers()
+        {
+            Assert.AreEqual(5, Calculator.Divide(10, 2));
+        }
     }
 }
