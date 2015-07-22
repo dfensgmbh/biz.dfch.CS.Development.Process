@@ -9,7 +9,7 @@ namespace biz.dfch.CS.Development.Process.Tests
         [TestMethod]
         public void AddReturnsSumOfTwoNumbers()
         {
-            Assert.AreEqual(15, Calculator.add(7, 8));
+            Assert.AreEqual(15, Calculator.Add(7, 8));
         }
 
         [TestMethod]
