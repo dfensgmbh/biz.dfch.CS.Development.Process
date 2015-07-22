@@ -15,7 +15,7 @@ namespace biz.dfch.CS.Development.Process.Tests
         [TestMethod]
         public void SubractReturnsDifferenceOfTheTwoPassedNumbers()
         {
-            Assert.AreEqual(2, Calculator.subtract(10, 8));
+            Assert.AreEqual(2, Calculator.Subtract(10, 8));
         }
 
         [TestMethod]
