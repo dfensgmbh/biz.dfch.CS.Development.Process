@@ -3,4 +3,6 @@
 
 Describes the organizations development process of C# and other projects at GitHub
 
+## Process Description
+
 Information about the process can be found in the [Wiki](https://github.com/dfensgmbh/biz.dfch.CS.Development.Process/wiki)
