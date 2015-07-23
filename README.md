@@ -5,4 +5,4 @@ Describes the organizations development process of C# and other projects at GitH
 
 ## Process Description
 
-The development process and several other information about the development at d-fens GmbH are describe in the [Wiki](https://github.com/dfensgmbh/biz.dfch.CS.Development.Process/wiki)
+The development process and several other information concerning the development at d-fens GmbH are describe in the [Wiki](https://github.com/dfensgmbh/biz.dfch.CS.Development.Process/wiki)
